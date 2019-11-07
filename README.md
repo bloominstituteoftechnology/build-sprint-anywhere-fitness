@@ -1,6 +1,6 @@
 # Anywhere Fitness v1.0.0
 
-Backend Project for Lambda&#39;s Build Week API Repository, deployed Link is https://lambda-anywhere-fitness.herokuapp.com/
+Backend Project for Lambda&#39;s Build Week API Repository, deployed Link is https://bw-anywhere-fitness-api.herokuapp.com/
 
 - [Auth](#auth)
 	- [Logs an User In](#logs-an-user-in)
